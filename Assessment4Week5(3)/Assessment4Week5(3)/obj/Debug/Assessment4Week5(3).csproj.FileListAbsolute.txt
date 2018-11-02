@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\bin\Debug\Assessment4Week5(3).exe.config
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\bin\Debug\Assessment4Week5(3).exe
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\bin\Debug\Assessment4Week5(3).pdb
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\obj\Debug\Assessment4Week5(3).csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\obj\Debug\Assessment4Week5(3).csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\obj\Debug\Assessment4Week5(3).exe
+C:\Users\TEVERTS\source\repos\Assessment4Week5(3)\Assessment4Week5(3)\obj\Debug\Assessment4Week5(3).pdb
